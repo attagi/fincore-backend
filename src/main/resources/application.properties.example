@@ -1,7 +1,7 @@
 spring.application.name=fincore-backend
 spring.datasource.url=jdbc:postgresql://localhost:5432/fincore_db
 spring.datasource.username=fincore_user
-spring.datasource.password=database_user
+spring.datasource.password=zmien_na_haslo
 spring.datasource.driver-class-name=org.postgresql.Driver
 
 spring.jpa.hibernate.ddl-auto=update
